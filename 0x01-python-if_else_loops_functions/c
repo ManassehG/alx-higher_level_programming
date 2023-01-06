@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "Working on control structures in python"
+git push
