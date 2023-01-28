@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "Classes in C with OOP"
+git push
