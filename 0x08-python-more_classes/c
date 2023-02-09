@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "More classes completed task"
+git push
